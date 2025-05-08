@@ -1,5 +1,5 @@
 # FAKE-NEWS-DETECTION
-#Problem Statement
+# Problem Statement
 
 Build a classification model to detect fake news articles based on textual content. :Apply NLP techniques to real-world problems involving text classification and misinformation detection
 

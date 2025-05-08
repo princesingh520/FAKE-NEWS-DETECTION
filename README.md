@@ -11,14 +11,15 @@ This project implements a machine learning model to classify news articles as "r
 
 The notebook is organized into the following sections:
 
-1. <u>Libraries: Importing necessary Python libraries for data analysis, visualization, and machine learning.
 
-2. <u>Loading Dataset: Loading the datasets containing fake and true news articles.
+<u>Libraries:  Importing necessary Python libraries for data analysis, visualization, and machine learning.
 
-3. <u>Data Exploration: Initial exploration of the datasets to understand their structure and content.
+<u>Loading Dataset:  Loading the datasets containing fake and true news articles.
 
-4. <u>Data Preprocessing: Cleaning and preparing the text data for analysis, including label assignment.
+<u>Data Exploration:  Initial exploration of the datasets to understand their structure and content.
 
-5. <u>Model Training: Training machine learning models (Logistic Regression, Decision Tree, Random Forest) to classify news articles.
+<u>Data Preprocessing:   Cleaning and preparing the text data for analysis, including label assignment.
 
-6. <u>Evaluation: Assessing model performance using accuracy and classification reports.
+<u>Model Training:   Training machine learning models (Logistic Regression, Decision Tree, Random Forest) to classify news articles.
+
+<u>Evaluation:   Assessing model performance using accuracy and classification reports.

@@ -23,3 +23,46 @@ The notebook is organized into the following sections:
 <u>Model Training:   Training machine learning models (Logistic Regression, Decision Tree, Random Forest) to classify news articles.
 
 <u>Evaluation:   Assessing model performance using accuracy and classification reports.
+
+# Key Features
+
+
+Data Loading:   Uses Pandas to load and merge datasets of fake and true news.
+
+Text Preprocessing:   Includes text cleaning and feature extraction using TF-IDF (Term Frequency-Inverse Document Frequency).
+
+Model Comparison:   Evaluates multiple classifiers to determine the best-performing model.
+
+Visualization:   Uses Seaborn and Matplotlib for data visualization.
+
+# Requirements
+
+To run this notebook, ensure you have the following libraries installed:
+
+pandas
+
+seaborn
+
+matplotlib
+
+scikit-learn
+
+wordcloud
+
+re (for text cleaning)
+
+
+
+# Dataset
+
+The project uses two datasets:
+
+Fake.csv: Contains fake news articles.
+
+True.csv: Contains true news articles.
+
+Each dataset includes columns such as title, text, subject, and date. A label column is added to distinguish between fake (0) and true (1) news.
+
+# Results
+
+The notebook demonstrates the performance of different machine learning models in classifying news articles. Key metrics such as accuracy and classification reports are provided to compare model effectiveness.

@@ -3,11 +3,11 @@
 
 Build a classification model to detect fake news articles based on textual content. :Apply NLP techniques to real-world problems involving text classification and misinformation detection
 
-#Overview
+# Overview
 
 This project implements a machine learning model to classify news articles as "real" or "fake" using two datasets: fake.csv (containing fake news articles) and true.csv (containing genuine news articles). The solution leverages Natural Language Processing (NLP) techniques to address the growing challenge of misinformation in digital media.
 
-#Project Structure
+# Project Structure
 
 The notebook is organized into the following sections:
 
